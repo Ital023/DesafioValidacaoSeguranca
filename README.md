@@ -13,7 +13,7 @@ Este repositório é uma atividade avaliativa do curso Spring Boot Expert da Dev
 Durante o desenvolvimento, aprofundei meus conhecimentos em TDD, segurança com OAuth2 e validação de dados, aplicando boas práticas para criar uma aplicação sólida e segura.
 
 ## Modelo conceitual
-![Modelo Conceitual](/assertsReadme/diagrama.png)
+![Modelo Conceitual](/assetsReadme/diagrama.png)
 
 # Tecnologias utilizadas
 ## Back end
